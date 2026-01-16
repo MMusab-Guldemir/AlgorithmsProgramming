@@ -1,12 +1,6 @@
-import java.net.InterfaceAddress;
-import java.security.PublicKey;
-import java.util.ArrayList;
 import java.util.InputMismatchException;
-import java.util.List;
 import java.util.Scanner;
 
-import javax.smartcardio.TerminalFactory;
-import javax.sound.sampled.SourceDataLine;
 
 public class PrimeNumber {
 
